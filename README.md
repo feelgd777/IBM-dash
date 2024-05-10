@@ -1,2 +1,2 @@
 # IBM-dash
-dashboard assignment
+Dashboard assignment as part of IBM Data Science professional certificate.
